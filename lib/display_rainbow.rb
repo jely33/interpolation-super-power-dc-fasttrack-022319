@@ -2,7 +2,7 @@
 
 def display_rainbow(array)
 
-  puts "R: #{rainbow[0]}, O: #{rainbow[1]}, Y: #{rainbow[2]}, G: #{rainbow[3]}, B: #{rainbow[4]}, I: #{rainbow[5]}, V: #{rainbow[6]}"
+  puts "R: #{array[0]}, O: #{array[1]}, Y: #{array[2]}, G: #{array[3]}, B: #{array[4]}, I: #{array[5]}, V: #{array[6]}"
 end
 
  rainbow = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
